@@ -1,7 +1,17 @@
-# Discord Login Form
+# HTML
 
-## Author: [KasRoudra](https://github.com/KasRoudra)
+İnstalling (Kali Linux/Debian/Arch/BlackArch/Termux):
 
-#### This is created for educational purposes demonstrating how phishing works.
+git clone https://github.com/babarich456/HTML
 
-### Use/Copy it legally and provide proper credit
+cd HTML
+
+Usage:
+
+python setup.py or bash setup.sh
+
+cat index.html or style.css
+
+Stay tuned for more to come
+
+NOTE: The reason why this tool is like this is that this tool only gives examples.
