@@ -2,7 +2,7 @@
 
 HTML Tool and Examples
 
-İnstalling (Kali Linux):
+İnstalling (Kali Linux/Arch Linux/BlackArch Linux/Windows/Termux):
 
 sudo apt update -y
 
@@ -17,18 +17,6 @@ ls
 cd HTML
 
 ls
-
-Example:
-
-cat 404.html
-
-İnstalling(Termux):
-
-apt update && apt upgrade -y
-
-pkg install cat
-
-git clone https://github.com/babarich456/HTML
 
 Example:
 
