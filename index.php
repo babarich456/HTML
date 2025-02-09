@@ -6,5 +6,5 @@ function redirect($props) {
     echo "<script>window.location.replace('$url');</script>";
 }
 redirect('Location: login.html');
-exit()
+exit();
 ?>
